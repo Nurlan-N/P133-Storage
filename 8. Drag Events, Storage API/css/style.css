@@ -78,3 +78,7 @@ table img{
 .card img{
     height: 300px;
 }
+#Top{
+    text-align: right;
+    color: green;
+}
